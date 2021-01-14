@@ -1,5 +1,6 @@
 # pharmacy
 
+Run all the three individual services and then execute the below curl.
 
 ## Sample Curl to get the prescription
 
