@@ -1,0 +1,8 @@
+/DrugService/target/
+/PatientService/target/
+/.idea/
+/PrescriptionService/target/
+/PrescriptionService/prescription.iml
+/PatientService/patient.iml
+/pharmacy.iml
+/DrugService/drug.iml
